@@ -1,0 +1,20 @@
+[
+  {
+    "id": "demo-quiz",
+    "title": { "ar": "اختبار تجريبي", "en": "Demo Quiz" },
+    "questions": [
+      {
+        "id": "q1",
+        "question": { "ar": "كم نسبة الادخار في قاعدة 50/30/20؟", "en": "What percentage goes to savings in the 50/30/20 rule?" },
+        "options": [
+          { "ar": "50%", "en": "50%" },
+          { "ar": "30%", "en": "30%" },
+          { "ar": "20%", "en": "20%" },
+          { "ar": "10%", "en": "10%" }
+        ],
+        "correctIndex": 2,
+        "explanation": { "ar": "20% مخصصة للادخار.", "en": "20% is allocated to savings." }
+      }
+    ]
+  }
+]

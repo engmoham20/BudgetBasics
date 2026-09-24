@@ -1,0 +1,8 @@
+[
+  {
+    "id": "tip-1",
+    "title": { "ar": "نصيحة تجريبية", "en": "Demo Tip" },
+    "content": { "ar": "هذه نصيحة تجريبية. سيتم استبدالها بالمحتوى الفعلي لاحقاً.", "en": "This is a demo tip. It will be replaced with actual content later." },
+    "category": { "ar": "عام", "en": "General" }
+  }
+]

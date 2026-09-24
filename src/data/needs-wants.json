@@ -1,0 +1,14 @@
+[
+  {
+    "id": "groceries",
+    "name": { "ar": "البقالة", "en": "Groceries" },
+    "category": "need",
+    "explanation": { "ar": "البقالة ضرورية لتغذية اليومية.", "en": "Groceries are essential for daily nutrition." }
+  },
+  {
+    "id": "designer-shoes",
+    "name": { "ar": "حذاء مصمم", "en": "Designer Shoes" },
+    "category": "want",
+    "explanation": { "ar": "الأحذية المصممة رغبة وليست حاجة.", "en": "Designer shoes are a want, not a need." }
+  }
+]

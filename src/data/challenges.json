@@ -1,0 +1,7 @@
+{
+  "id": "30-day-challenge",
+  "title": { "ar": "تحدي 30 يوماً", "en": "30-Day Challenge" },
+  "days": [
+    { "day": 1, "title": { "ar": "اليوم 1", "en": "Day 1" }, "description": { "ar": "تتبع مصروفات اليوم.", "en": "Track today's expenses." } }
+  ]
+}

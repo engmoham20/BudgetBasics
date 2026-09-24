@@ -1,0 +1,41 @@
+:root {
+  --bg: #fafafa;
+  --surface: #ffffff;
+  --border: #e4e4e7;
+  --fg: #18181b;
+  --muted: #52525b;
+  --primary: #7a1f3d;
+  --primary-fg: #ffffff;
+  --success: #15803d;
+  --danger: #b91c1c;
+  --warning: #c2410c;
+  --tip: #a16207;
+}
+
+.dark {
+  --bg: #0e0e10;
+  --surface: #18181b;
+  --border: #2e2e33;
+  --fg: #f4f4f5;
+  --muted: #a1a1aa;
+  --primary: #d9607f;
+  --primary-fg: #0e0e10;
+  --success: #4ade80;
+  --danger: #f87171;
+  --warning: #fb923c;
+  --tip: #facc15;
+}
+
+@theme {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-border-custom: var(--border);
+  --color-fg: var(--fg);
+  --color-muted: var(--muted);
+  --color-primary: var(--primary);
+  --color-primary-fg: var(--primary-fg);
+  --color-success: var(--success);
+  --color-danger: var(--danger);
+  --color-warning: var(--warning);
+  --color-tip: var(--tip);
+}
