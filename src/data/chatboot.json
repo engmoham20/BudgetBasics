@@ -1,0 +1,1484 @@
+[
+  {
+    "id": "kb-01",
+    "keywordsAr": [
+      "ما هي الميزانية",
+      "ما هي الميزانية الشخصية",
+      "معنى الميزانية",
+      "تعريف الميزانية",
+      "الميزانية الشخصية",
+      "ميزانية"
+    ],
+    "keywordsEn": [
+      "what is a personal budget",
+      "what is a budget",
+      "what is budget",
+      "budget meaning",
+      "budget definition",
+      "personal budget",
+      "budget"
+    ],
+    "answer": {
+      "ar": "الميزانية الشخصية هي خطة مكتوبة توضح كم تتوقع أن يصلك من دخل وكيف ستوزعه على المصاريف والادخار خلال فترة محددة، عادةً شهر. هدفها ليس منعك من الإنفاق، بل أن تعرف إلى أين يذهب مالك وأن تتحكم فيه بدل أن يتحكم فيك.",
+      "en": "A personal budget is a written plan showing how much money you expect to receive and how you will divide it between spending and saving over a set period, usually a month. Its goal is not to stop you from spending, but to help you know where your money goes and stay in control of it."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "لماذا أحتاج إلى ميزانية؟",
+        "en": "Why do I need a budget?"
+      },
+      {
+        "ar": "كيف أبدأ ميزانية؟",
+        "en": "How do I start a budget?"
+      }
+    ]
+  },
+  {
+    "id": "kb-02",
+    "keywordsAr": [
+      "لماذا احتاج الى ميزانية",
+      "لماذا احتاج ميزانية",
+      "لماذا الميزانية",
+      "اهمية الميزانية",
+      "فائدة الميزانية",
+      "فوائد الميزانية",
+      "هل الميزانية ضرورية",
+      "لماذا نحتاج",
+      "نحتاج ميزانية"
+    ],
+    "keywordsEn": [
+      "why do i need a budget",
+      "why budget",
+      "importance of budget",
+      "importance of budgeting",
+      "benefits of budgeting",
+      "budget benefits",
+      "why is budgeting important"
+    ],
+    "answer": {
+      "ar": "الميزانية تمنحك وضوحاً: تعرف كم تملك، وكم تنفق، وكم يمكنك أن تدّخر. وتساعدك على تحقيق أهدافك، مثل شراء جهاز أو السفر، دون ديون، وتقلل التوتر الناتج عن نفاد المال قبل نهاية الشهر.",
+      "en": "A budget gives you clarity: you know what you have, what you spend and what you can save. It helps you reach goals like buying a device or travelling without debt, and it reduces the stress of running out of money before the month ends."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "ما هي الميزانية الشخصية؟",
+        "en": "What is a personal budget?"
+      },
+      {
+        "ar": "كيف أبدأ ميزانية؟",
+        "en": "How do I start a budget?"
+      }
+    ]
+  },
+  {
+    "id": "kb-03",
+    "keywordsAr": [
+      "كيف ابدا ميزانية",
+      "ابدا ميزانية",
+      "اعمل ميزانية",
+      "اصمم ميزانية",
+      "انشاء ميزانية",
+      "خطوات الميزانية",
+      "اعداد ميزانية",
+      "وضع ميزانية",
+      "كيف اعد ميزانية"
+    ],
+    "keywordsEn": [
+      "how do i start a budget",
+      "start a budget",
+      "start budget",
+      "create a budget",
+      "make a budget",
+      "build a budget",
+      "set up a budget",
+      "how to budget",
+      "budget steps"
+    ],
+    "answer": {
+      "ar": "ابدأ بأربع خطوات: (1) اكتب دخلك الشهري، (2) سجّل مصاريفك الثابتة مثل المواصلات والاشتراكات، (3) قدّر المصاريف المتغيرة مثل الطعام والترفيه، (4) خصّص مبلغاً للادخار. ثم قارن الأرقام: إذا زادت المصاريف عن الدخل فقلّل الرغبات أولاً.",
+      "en": "Start with four steps: (1) write down your monthly income, (2) list fixed expenses such as transport and subscriptions, (3) estimate variable expenses such as food and fun, (4) set aside an amount for saving. Then compare the numbers: if spending is higher than income, trim wants first."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "ما المقصود بالدخل؟",
+        "en": "What counts as income?"
+      },
+      {
+        "ar": "ما الفرق بين الحاجة والرغبة؟",
+        "en": "What is the difference between a need and a want?"
+      },
+      {
+        "ar": "ما هي قاعدة 50/30/20؟",
+        "en": "What is the 50/30/20 rule?"
+      }
+    ]
+  },
+  {
+    "id": "kb-04",
+    "keywordsAr": [
+      "ما المقصود بالدخل",
+      "ما هو الدخل",
+      "معنى الدخل",
+      "مصادر الدخل",
+      "مصدر الدخل",
+      "الدخل الشهري",
+      "الراتب",
+      "المصروف الشهري",
+      "دخلي",
+      "الدخل"
+    ],
+    "keywordsEn": [
+      "what counts as income",
+      "what is income",
+      "income sources",
+      "source of income",
+      "monthly income",
+      "my income",
+      "salary",
+      "allowance",
+      "pocket money",
+      "income"
+    ],
+    "answer": {
+      "ar": "الدخل هو كل مبلغ يصلك بانتظام: راتب، أو مصروف من الأسرة، أو عمل جزئي، أو منحة دراسية، أو أي مصدر آخر. احسب دخلك الصافي، أي ما يصلك فعلاً بعد الخصومات، وابنِ ميزانيتك عليه لا على الرقم المعلن.",
+      "en": "Income is any money that reaches you regularly: a salary, an allowance, part-time work, a scholarship or any other source. Use your net income, meaning what you actually receive after deductions, and build your budget on that rather than on the advertised figure."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كيف أخطط إذا كان دخلي غير ثابت؟",
+        "en": "How do I plan if my income is irregular?"
+      },
+      {
+        "ar": "ما أنواع المصاريف؟",
+        "en": "What types of expenses are there?"
+      }
+    ]
+  },
+  {
+    "id": "kb-05",
+    "keywordsAr": [
+      "دخل غير ثابت",
+      "دخلي غير ثابت",
+      "دخلي متقلب",
+      "دخلي غير منتظم",
+      "دخل متقلب",
+      "دخل غير منتظم",
+      "دخلي يتغير",
+      "دخل متذبذب",
+      "عمل حر",
+      "دخل متغير"
+    ],
+    "keywordsEn": [
+      "irregular income",
+      "income is irregular",
+      "variable income",
+      "unstable income",
+      "income changes",
+      "freelance",
+      "income varies",
+      "inconsistent income"
+    ],
+    "answer": {
+      "ar": "ابنِ ميزانيتك على أقل دخل تتوقعه في الأشهر العادية، وغطِّ به الاحتياجات أولاً. وما يزيد في الأشهر الجيدة وجّهه إلى الادخار أو صندوق الطوارئ ليغطي الأشهر الأضعف.",
+      "en": "Base your budget on the lowest income you realistically expect and cover needs with it first. Whatever extra arrives in good months goes to savings or your emergency fund so it can cushion the weaker months."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "ما هو صندوق الطوارئ؟",
+        "en": "What is an emergency fund?"
+      },
+      {
+        "ar": "كيف أجعل ميزانيتي واقعية؟",
+        "en": "How do I make my budget realistic?"
+      }
+    ]
+  },
+  {
+    "id": "kb-06",
+    "keywordsAr": [
+      "انواع المصاريف",
+      "انواع المصروفات",
+      "ما هي المصاريف",
+      "ما هي المصروفات",
+      "المصاريف",
+      "المصروفات",
+      "مصاريفي"
+    ],
+    "keywordsEn": [
+      "types of expenses",
+      "kinds of expenses",
+      "what are expenses",
+      "expense types",
+      "expense"
+    ],
+    "answer": {
+      "ar": "المصاريف أنواع: ثابتة (إيجار، اشتراكات)، ومتغيرة (طعام، مواصلات)، وضرورية (احتياجات)، وغير ضرورية (رغبات)، ومفاجئة (طوارئ). تصنيف مصاريفك بهذه الطريقة يوضح لك ما يمكن تقليله وما لا يمكن.",
+      "en": "Expenses come in several kinds: fixed (rent, subscriptions), variable (food, transport), essential (needs), non-essential (wants) and unexpected (emergencies). Sorting yours this way shows what can be reduced and what cannot."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "ما الفرق بين المصاريف الثابتة والمتغيرة؟",
+        "en": "What is the difference between fixed and variable expenses?"
+      },
+      {
+        "ar": "كيف أصنف مصاريفي؟",
+        "en": "How do I categorize my expenses?"
+      }
+    ]
+  },
+  {
+    "id": "kb-07",
+    "keywordsAr": [
+      "مصاريف ثابتة",
+      "مصاريف متغيرة",
+      "مصروفات ثابتة",
+      "مصروفات متغيرة",
+      "المصاريف الثابتة",
+      "المصاريف المتغيرة",
+      "ثابتة والمتغيرة",
+      "الثابتة والمتغيرة"
+    ],
+    "keywordsEn": [
+      "fixed expenses",
+      "variable expenses",
+      "fixed vs variable",
+      "fixed and variable",
+      "fixed costs",
+      "variable costs"
+    ],
+    "answer": {
+      "ar": "المصاريف الثابتة تتكرر بنفس المبلغ تقريباً كل شهر، مثل الإيجار أو الاشتراكات، ويصعب تغييرها بسرعة. أما المتغيرة فتختلف من شهر لآخر، مثل الطعام والترفيه، وهي عادةً المكان الأسهل لتوفير المال.",
+      "en": "Fixed expenses repeat at roughly the same amount each month, like rent or subscriptions, and are hard to change quickly. Variable expenses change from month to month, like food and entertainment, and they are usually the easiest place to save."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "ما المصاريف المتكررة وكيف أتحكم بها؟",
+        "en": "What are recurring expenses and how do I manage them?"
+      },
+      {
+        "ar": "كيف أقلل المصاريف غير الضرورية؟",
+        "en": "How can I cut unnecessary expenses?"
+      }
+    ]
+  },
+  {
+    "id": "kb-08",
+    "keywordsAr": [
+      "الفرق بين الحاجة والرغبة",
+      "الحاجة والرغبة",
+      "احتياجات ورغبات",
+      "الاحتياجات والرغبات",
+      "الاحتياجات مقابل الرغبات",
+      "الرغبات",
+      "الاحتياجات",
+      "الحاجات"
+    ],
+    "keywordsEn": [
+      "difference between a need and a want",
+      "need vs want",
+      "needs vs wants",
+      "needs and wants",
+      "need or want",
+      "wants",
+      "needs"
+    ],
+    "answer": {
+      "ar": "الحاجة هي ما لا تستطيع العيش أو الدراسة أو العمل بدونه، مثل الطعام والسكن والمواصلات الأساسية. أما الرغبة فهي ما تحب أن تملكه لكنك تستطيع الاستغناء عنه، مثل الوجبات السريعة أو أحدث الموضات. التفريق بينهما هو أساس القرارات المالية الجيدة.",
+      "en": "A need is something you cannot live, study or work without, such as food, housing and basic transport. A want is something you would like to have but can do without, like takeaway meals or the latest fashion. Telling them apart is the foundation of good money decisions."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كيف أعرف هل الشيء الذي أريد شراءه حاجة أم رغبة؟",
+        "en": "How can I tell if something I want to buy is a need or a want?"
+      },
+      {
+        "ar": "ما هي قاعدة 50/30/20؟",
+        "en": "What is the 50/30/20 rule?"
+      }
+    ]
+  },
+  {
+    "id": "kb-09",
+    "keywordsAr": [
+      "كيف اعرف هل",
+      "حاجة ام رغبة",
+      "هل هو حاجة",
+      "هل هي حاجة",
+      "اختبار الحاجة",
+      "كيف افرق",
+      "هل احتاجه",
+      "هل احتاج"
+    ],
+    "keywordsEn": [
+      "how can i tell if",
+      "need or a want",
+      "is it a need or a want",
+      "need or want test",
+      "do i really need",
+      "how do i know if i need",
+      "how to tell need from want"
+    ],
+    "answer": {
+      "ar": "اسأل نفسك ثلاثة أسئلة: هل سيتضرر عملي أو دراستي أو صحتي إن لم أشترِه؟ هل يوجد بديل أرخص يؤدي الغرض؟ هل سأظل أريده بعد أسبوع؟ إذا كانت الإجابات لا، فهو غالباً رغبة، ولا بأس بها ما دامت ضمن المبلغ المخصص لها.",
+      "en": "Ask yourself three questions: Would my work, studies or health suffer without it? Is there a cheaper alternative that does the job? Will I still want it in a week? If the answers are no, it is probably a want, which is fine as long as it fits within the amount you have set aside for wants."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كيف أتجنب الشراء العشوائي؟",
+        "en": "How do I avoid impulse buying?"
+      },
+      {
+        "ar": "كيف أتخذ قرار شراء سليماً؟",
+        "en": "How do I make a sound purchase decision?"
+      }
+    ]
+  },
+  {
+    "id": "kb-10",
+    "keywordsAr": [
+      "قاعدة 50 30 20",
+      "قاعده 50 30 20",
+      "50 30 20",
+      "خمسين ثلاثين عشرين",
+      "قاعدة الخمسين",
+      "قاعدة التوزيع"
+    ],
+    "keywordsEn": [
+      "what is the 50 30 20 rule",
+      "50 30 20",
+      "50/30/20",
+      "fifty thirty twenty",
+      "50-30-20 rule",
+      "budget rule"
+    ],
+    "answer": {
+      "ar": "قاعدة 50/30/20 طريقة بسيطة لتقسيم الدخل بعد الخصومات: 50% للاحتياجات، و30% للرغبات، و20% للادخار وسداد الالتزامات. مثال: إذا كان دخلك 1000، فالتوزيع 500 للاحتياجات و300 للرغبات و200 للادخار.",
+      "en": "The 50/30/20 rule is a simple way to split your after-deduction income: 50% for needs, 30% for wants and 20% for savings and debt repayment. For example, on an income of 1000, that is 500 for needs, 300 for wants and 200 for savings."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "ماذا تشمل نسبة 50% المخصصة للاحتياجات؟",
+        "en": "What goes into the 50% share for needs?"
+      },
+      {
+        "ar": "كيف أستخدم نسبة 30% المخصصة للرغبات؟",
+        "en": "How do I use the 30% share for wants?"
+      },
+      {
+        "ar": "ماذا تعني نسبة 20% للادخار؟",
+        "en": "What does the 20% share for savings mean?"
+      }
+    ]
+  },
+  {
+    "id": "kb-11",
+    "keywordsAr": [
+      "نسبة 50",
+      "50 المخصصة",
+      "50 للاحتياجات",
+      "50 احتياجات",
+      "نصف الدخل للاحتياجات",
+      "الاحتياجات الاساسية"
+    ],
+    "keywordsEn": [
+      "50% share",
+      "50% for needs",
+      "50 for needs",
+      "50 percent needs",
+      "half of my income",
+      "share for needs",
+      "needs share"
+    ],
+    "answer": {
+      "ar": "تشمل الـ50% كل ما تحتاجه فعلاً: السكن، والطعام الأساسي، والمواصلات، والفواتير الضرورية، والتعليم. إذا تجاوزت احتياجاتك هذه النسبة فراجع البنود الأعلى تكلفة قبل أن تقتطع من الادخار.",
+      "en": "The 50% covers what you truly need: housing, basic food, transport, essential bills and education. If your needs go over this share, review your costliest items before cutting into savings."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "ما الفرق بين الحاجة والرغبة؟",
+        "en": "What is the difference between a need and a want?"
+      },
+      {
+        "ar": "كيف أستخدم نسبة 30% المخصصة للرغبات؟",
+        "en": "How do I use the 30% share for wants?"
+      }
+    ]
+  },
+  {
+    "id": "kb-12",
+    "keywordsAr": [
+      "نسبة 30",
+      "30 للرغبات",
+      "30 رغبات",
+      "30 المخصصة",
+      "ثلاثين بالمئة للرغبات",
+      "ميزانية الترفيه",
+      "المخصص للرغبات"
+    ],
+    "keywordsEn": [
+      "30% share",
+      "30% for wants",
+      "30 for wants",
+      "30 percent wants",
+      "thirty percent",
+      "share for wants",
+      "wants share",
+      "fun money",
+      "entertainment budget"
+    ],
+    "answer": {
+      "ar": "الـ30% هي مساحة الاستمتاع: الترفيه، والوجبات الخارجية، والهوايات، والملابس الإضافية. الأفضل أن تحدد لكل فئة سقفاً واضحاً، وأن تعتبر المبلغ المتبقي في نهاية الشهر إضافة إلى الادخار لا فرصة لإنفاقه.",
+      "en": "The 30% is your enjoyment space: entertainment, eating out, hobbies and extra clothes. Give each category a clear cap, and treat any amount left at month-end as a bonus for savings, not as an excuse to spend it."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "ماذا تعني نسبة 20% للادخار؟",
+        "en": "What does the 20% share for savings mean?"
+      },
+      {
+        "ar": "كيف أحدد حداً أقصى للإنفاق؟",
+        "en": "How do I set a spending limit?"
+      }
+    ]
+  },
+  {
+    "id": "kb-13",
+    "keywordsAr": [
+      "نسبة 20",
+      "20 للادخار",
+      "20 ادخار",
+      "العشرين بالمئة",
+      "20 في المئة للادخار",
+      "20 وسداد"
+    ],
+    "keywordsEn": [
+      "20% share",
+      "20% for savings",
+      "20 for savings",
+      "20 percent savings",
+      "twenty percent",
+      "share for savings",
+      "savings share"
+    ],
+    "answer": {
+      "ar": "الـ20% تذهب إلى مستقبلك: الادخار، وصندوق الطوارئ، وسداد أي التزامات مالية. إذا بدت النسبة كبيرة فابدأ بـ5% أو 10% وارفعها تدريجياً كلما زاد دخلك أو انخفضت مصاريفك.",
+      "en": "The 20% goes to your future: savings, your emergency fund and repaying any obligations. If it feels like too much, start with 5% or 10% and raise it gradually as your income grows or your expenses fall."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "هل يمكن تعديل النسب لتناسب ظروفي؟",
+        "en": "Can I adjust the percentages to fit my situation?"
+      },
+      {
+        "ar": "كم يجب أن أدخر من دخلي؟",
+        "en": "How much should I save from my income?"
+      }
+    ]
+  },
+  {
+    "id": "kb-14",
+    "keywordsAr": [
+      "تعديل النسب",
+      "تعديل القاعدة",
+      "تعديل قاعدة",
+      "دخلي قليل",
+      "دخل محدود",
+      "النسب لا تناسبني",
+      "تغيير النسب",
+      "القاعدة لا تناسبني",
+      "تخصيص النسب",
+      "تناسب ظروفي"
+    ],
+    "keywordsEn": [
+      "adjust the percentages",
+      "adjust the rule",
+      "change the percentages",
+      "change the rule",
+      "low income",
+      "limited income",
+      "rule does not fit",
+      "fit my situation",
+      "customize the rule"
+    ],
+    "answer": {
+      "ar": "نعم، هي إرشاد وليست قانوناً. إذا كان دخلك محدوداً وتكاليف السكن أو المواصلات مرتفعة فجرّب توزيع 60/20/20، وإذا أردت ادخاراً أسرع فجرّب 50/20/30. المهم أن تبقى نسبة للادخار ولو كانت صغيرة، وأن تراجع التوزيع كل بضعة أشهر.",
+      "en": "Yes, it is a guideline, not a law. If your income is limited and housing or transport costs are high, try a 60/20/20 split; to save faster, try 50/20/30. What matters is keeping some share for savings, even a small one, and revisiting the split every few months."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "ما هي قاعدة 50/30/20؟",
+        "en": "What is the 50/30/20 rule?"
+      },
+      {
+        "ar": "كيف أدير ميزانيتي كطالب؟",
+        "en": "How do I manage my budget as a student?"
+      }
+    ]
+  },
+  {
+    "id": "kb-15",
+    "keywordsAr": [
+      "اهمية الادخار",
+      "لماذا الادخار",
+      "لماذا ادخر",
+      "ما هو الادخار",
+      "معنى الادخار",
+      "فائدة الادخار",
+      "الادخار مهم",
+      "الادخار"
+    ],
+    "keywordsEn": [
+      "why is saving important",
+      "why save",
+      "why should i save",
+      "importance of saving",
+      "what is saving",
+      "benefits of saving",
+      "saving money",
+      "saving"
+    ],
+    "answer": {
+      "ar": "الادخار هو تأجيل جزء من دخلك اليوم لتستخدمه لاحقاً: لهدف تحبه أو لظرف طارئ. فهو يمنحك أماناً ويقلل حاجتك إلى الاقتراض، ويحوّل الأحلام إلى خطط قابلة للتنفيذ.",
+      "en": "Saving means setting aside part of today's income to use later: for a goal you care about or for an unexpected situation. It gives you security, reduces the need to borrow and turns dreams into workable plans."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كم يجب أن أدخر من دخلي؟",
+        "en": "How much should I save from my income?"
+      },
+      {
+        "ar": "ما معنى أن أدفع لنفسي أولاً؟",
+        "en": "What does paying yourself first mean?"
+      }
+    ]
+  },
+  {
+    "id": "kb-16",
+    "keywordsAr": [
+      "كم ادخر",
+      "كم يجب ان ادخر",
+      "كم مبلغ الادخار",
+      "نسبة الادخار المناسبة",
+      "كم اوفر",
+      "كم اخصص للادخار",
+      "مقدار الادخار"
+    ],
+    "keywordsEn": [
+      "how much should i save",
+      "how much to save",
+      "how much save",
+      "how much saving",
+      "savings percentage",
+      "how much of my income"
+    ],
+    "answer": {
+      "ar": "المعتاد أن يكون الادخار نحو 20% من الدخل، لكن ابدأ بما تستطيعه فعلاً حتى لو كان 5%. الأهم هو الاستمرار كل شهر؛ ثم ارفع النسبة عندما تنخفض مصاريفك أو يزيد دخلك.",
+      "en": "A common target is around 20% of income, but start with what you can actually manage, even 5%. Consistency matters most; raise the share when your expenses drop or your income grows."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كيف أضع هدف ادخار واضحاً؟",
+        "en": "How do I set a clear savings goal?"
+      },
+      {
+        "ar": "ما معنى أن أدفع لنفسي أولاً؟",
+        "en": "What does paying yourself first mean?"
+      }
+    ]
+  },
+  {
+    "id": "kb-17",
+    "keywordsAr": [
+      "هدف ادخار",
+      "اهداف الادخار",
+      "هدف مالي",
+      "اضع هدف",
+      "تحديد هدف",
+      "الهدف المالي",
+      "هدف الادخار"
+    ],
+    "keywordsEn": [
+      "savings goal",
+      "saving goal",
+      "financial goal",
+      "set a goal",
+      "set goals",
+      "smart goal",
+      "goal setting"
+    ],
+    "answer": {
+      "ar": "اجعل هدفك محدداً وقابلاً للقياس: ماذا تريد، وكم يكلف، ومتى تحتاجه. مثلاً: «حاسوب بـ 600 خلال 6 أشهر»، أي 100 شهرياً. الهدف الواضح يسهّل عليك حساب المبلغ الشهري ويبقيك متحمساً.",
+      "en": "Make your goal specific and measurable: what you want, what it costs and when you need it. For example, a 600 laptop in 6 months means 100 a month. A clear goal makes the monthly amount easy to calculate and keeps you motivated."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "ما الفرق بين الأهداف المالية القصيرة والطويلة؟",
+        "en": "What is the difference between short-term and long-term goals?"
+      },
+      {
+        "ar": "ما هو صندوق الطوارئ؟",
+        "en": "What is an emergency fund?"
+      }
+    ]
+  },
+  {
+    "id": "kb-18",
+    "keywordsAr": [
+      "صندوق الطوارئ",
+      "صندوق طوارئ",
+      "مبلغ الطوارئ",
+      "ادخار الطوارئ",
+      "احتياطي مالي",
+      "الطوارئ"
+    ],
+    "keywordsEn": [
+      "emergency fund",
+      "emergency savings",
+      "rainy day",
+      "safety net",
+      "emergency money"
+    ],
+    "answer": {
+      "ar": "صندوق الطوارئ مبلغ تحتفظ به جانباً لمواجهة ظرف غير متوقع مثل عطل جهاز أو مصاريف علاج. ابدأ بهدف صغير كمصروف أسبوع أو شهر، ثم ارفعه تدريجياً ليغطي عدة أشهر، ولا تستخدمه للرغبات.",
+      "en": "An emergency fund is money kept aside for something unexpected, like a broken device or medical costs. Start with a small target such as one week or one month of expenses, build it up gradually, and do not use it for wants."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كيف أستعد للمصاريف المفاجئة؟",
+        "en": "How do I prepare for unexpected expenses?"
+      },
+      {
+        "ar": "ما معنى أن أدفع لنفسي أولاً؟",
+        "en": "What does paying yourself first mean?"
+      }
+    ]
+  },
+  {
+    "id": "kb-19",
+    "keywordsAr": [
+      "ادفع لنفسي",
+      "ادفع لنفسك",
+      "ادخر اولا",
+      "الادخار اولا",
+      "الادخار التلقائي",
+      "تحويل تلقائي",
+      "ادخار تلقائي",
+      "الادخار قبل الصرف",
+      "الادخار قبل الانفاق"
+    ],
+    "keywordsEn": [
+      "pay yourself first",
+      "paying yourself first",
+      "save first",
+      "automatic saving",
+      "automatic transfer",
+      "automate savings",
+      "save before spending"
+    ],
+    "answer": {
+      "ar": "معناها أن تحوّل مبلغ الادخار فور وصول الدخل وقبل أن تنفق أي شيء، بدل أن تدّخر ما يتبقى في آخر الشهر (وغالباً لا يتبقى شيء). ويُفضَّل أن يكون التحويل تلقائياً إن أمكن حتى لا يعتمد على قوة الإرادة.",
+      "en": "It means moving your savings amount aside as soon as income arrives, before spending anything, instead of saving whatever is left at month-end (which is often nothing). Make the transfer automatic if you can so it does not rely on willpower."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "لماذا الادخار مهم؟",
+        "en": "Why is saving important?"
+      },
+      {
+        "ar": "لماذا يجب أن أتتبع مصاريفي؟",
+        "en": "Why should I track my expenses?"
+      }
+    ]
+  },
+  {
+    "id": "kb-20",
+    "keywordsAr": [
+      "تتبع المصاريف",
+      "تتبع مصاريفي",
+      "تتبع المصروفات",
+      "متابعة المصاريف",
+      "متابعة مصاريفي",
+      "اين يذهب مالي",
+      "اين يذهب مصروفي"
+    ],
+    "keywordsEn": [
+      "track my expenses",
+      "track expenses",
+      "track spending",
+      "track my spending",
+      "tracking expenses",
+      "where does my money go",
+      "expense tracking"
+    ],
+    "answer": {
+      "ar": "التتبع يكشف الحقيقة: كثيرون يتفاجؤون بأن المبالغ الصغيرة اليومية تساوي مبلغاً كبيراً آخر الشهر. سجّل كل مصروف فور حدوثه، ثم راجع المجموع أسبوعياً لتعرف أين يذهب مالك وما الذي يمكن تعديله.",
+      "en": "Tracking reveals the truth: many people are surprised that small daily amounts add up to a large sum by month-end. Record each expense right after it happens, then review the totals weekly to see where your money goes and what you can adjust."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "ما أفضل طريقة لتسجيل المصاريف؟",
+        "en": "What is the best way to record expenses?"
+      },
+      {
+        "ar": "كيف أصنف مصاريفي؟",
+        "en": "How do I categorize my expenses?"
+      }
+    ]
+  },
+  {
+    "id": "kb-21",
+    "keywordsAr": [
+      "افضل طريقة",
+      "طريقة لتسجيل",
+      "طريقة تسجيل",
+      "تسجيل المصاريف",
+      "تسجيل المصروفات",
+      "اسجل مصاريفي",
+      "تطبيق",
+      "جدول بيانات",
+      "دفتر",
+      "اداة"
+    ],
+    "keywordsEn": [
+      "best way to record",
+      "best way to track",
+      "tools to track",
+      "budget app",
+      "expense app",
+      "spreadsheet",
+      "notebook",
+      "tracking tool",
+      "record expenses",
+      "log expenses"
+    ],
+    "answer": {
+      "ar": "أفضل طريقة هي التي ستلتزم بها فعلاً. يمكنك استخدام دفتر صغير، أو جدول بيانات، أو أداة مخطط المصروفات في هذا التطبيق. ابدأ بأبسط خيار، وسجّل الإدخالات في وقت ثابت يومياً حتى تصبح عادة.",
+      "en": "The best method is the one you will actually stick to. You can use a small notebook, a spreadsheet, or the Expense Planner in this app. Start with the simplest option and log entries at a set time each day until it becomes a habit."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كيف أصنف مصاريفي؟",
+        "en": "How do I categorize my expenses?"
+      },
+      {
+        "ar": "كيف أراجع ميزانيتي في نهاية الشهر؟",
+        "en": "How do I review my budget at month-end?"
+      }
+    ]
+  },
+  {
+    "id": "kb-22",
+    "keywordsAr": [
+      "اصنف مصاريفي",
+      "اصنف المصاريف",
+      "المصاريف الى فئات",
+      "تصنيف المصاريف",
+      "تصنيف المصروفات",
+      "فئات المصاريف",
+      "تقسيم المصاريف",
+      "فئات الانفاق",
+      "تنظيم المصاريف",
+      "تنظيم الانفاق",
+      "تنظيم مصاريفي"
+    ],
+    "keywordsEn": [
+      "categorize my expenses",
+      "categorise my expenses",
+      "categorize",
+      "categorise",
+      "categories",
+      "classify expenses",
+      "organize expenses",
+      "organise spending",
+      "expense categories"
+    ],
+    "answer": {
+      "ar": "ابدأ بعدد قليل من الفئات الواضحة: سكن، وطعام، ومواصلات، ودراسة أو عمل، وترفيه، وادخار، وأخرى. ثم صنّف كل فئة كحاجة أو رغبة. تجنب الإكثار من الفئات لأن ذلك يجعل التسجيل مملاً ويُضعف الالتزام.",
+      "en": "Begin with a few clear categories: housing, food, transport, study or work, fun, savings and other. Then mark each category as a need or a want. Avoid too many categories because they make tracking tedious and hurt consistency."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كيف أحدد حداً أقصى للإنفاق؟",
+        "en": "How do I set a spending limit?"
+      },
+      {
+        "ar": "ما الفرق بين المصاريف الثابتة والمتغيرة؟",
+        "en": "What is the difference between fixed and variable expenses?"
+      }
+    ]
+  },
+  {
+    "id": "kb-23",
+    "keywordsAr": [
+      "حدا اقصى",
+      "حد اقصى",
+      "سقف الانفاق",
+      "سقف للانفاق",
+      "حدود الانفاق",
+      "حد الانفاق",
+      "تحديد الانفاق",
+      "اتحكم في انفاقي",
+      "التحكم في الانفاق",
+      "ضبط الانفاق",
+      "ضبط المصاريف"
+    ],
+    "keywordsEn": [
+      "spending limit",
+      "spending cap",
+      "limit spending",
+      "control spending",
+      "control my spending",
+      "cap on spending",
+      "set a limit",
+      "maximum spending"
+    ],
+    "answer": {
+      "ar": "حدّد لكل فئة مبلغاً شهرياً أو أسبوعياً بناءً على ما سجلته سابقاً، وابدأ بالفئات المتغيرة مثل الطعام والترفيه. تابع المتبقي منها بانتظام، وإذا اقتربت من السقف فأوقف الإنفاق في تلك الفئة أو انقل مبلغاً من فئة أخرى عن وعي.",
+      "en": "Give each category a monthly or weekly amount based on what you have recorded before, starting with variable ones like food and fun. Check what is left regularly, and if you near the cap, pause spending in that category or consciously move money from another one."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كيف أقلل المصاريف غير الضرورية؟",
+        "en": "How can I cut unnecessary expenses?"
+      },
+      {
+        "ar": "هل يؤثر الدفع بالبطاقة أو بالتطبيقات على إنفاقي؟",
+        "en": "Does paying by card or app affect my spending?"
+      }
+    ]
+  },
+  {
+    "id": "kb-24",
+    "keywordsAr": [
+      "مصاريف غير ضرورية",
+      "مصروفات غير ضرورية",
+      "المصاريف غير الضرورية",
+      "المصاريف الغير ضرورية",
+      "قلل المصاريف",
+      "تقليل المصاريف",
+      "اقلل مصاريفي",
+      "توفير المال",
+      "كيف اوفر",
+      "تقليل الانفاق",
+      "خفض المصاريف"
+    ],
+    "keywordsEn": [
+      "unnecessary expenses",
+      "non-essential expenses",
+      "non essential",
+      "cut expenses",
+      "cut costs",
+      "reduce spending",
+      "reduce expenses",
+      "save money on",
+      "spend less"
+    ],
+    "answer": {
+      "ar": "ابدأ بمراجعة سجل مصاريفك وابحث عن ثلاثة بنود لا تضيف قيمة حقيقية لحياتك، مثل الاشتراكات المهملة أو الوجبات الخارجية المتكررة. قلّل تدريجياً بدل الحذف الكامل حتى تستمر، وحوّل المبلغ الموفَّر مباشرة إلى الادخار.",
+      "en": "Start by reviewing your expense record and pick three items that add little real value, like unused subscriptions or frequent takeaway. Cut gradually rather than all at once so you stick with it, and move the saved amount straight into savings."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "ما المصاريف المتكررة وكيف أتحكم بها؟",
+        "en": "What are recurring expenses and how do I manage them?"
+      },
+      {
+        "ar": "كيف أقارن الأسعار بذكاء؟",
+        "en": "How do I compare prices wisely?"
+      }
+    ]
+  },
+  {
+    "id": "kb-25",
+    "keywordsAr": [
+      "مصاريف متكررة",
+      "مصروفات متكررة",
+      "المصاريف المتكررة",
+      "اشتراكات",
+      "اشتراك شهري",
+      "اشتراكاتي",
+      "دفعات شهرية",
+      "فواتير شهرية",
+      "الغاء الاشتراك"
+    ],
+    "keywordsEn": [
+      "recurring expenses",
+      "recurring costs",
+      "recurring payments",
+      "subscription",
+      "monthly bills",
+      "regular payments",
+      "automatic payments"
+    ],
+    "answer": {
+      "ar": "المصاريف المتكررة هي التي تُدفع كل شهر أو كل سنة، وغالباً تلقائياً: اشتراكات وفواتير وأقساط. اجمعها كلها في قائمة وراجعها كل ثلاثة أشهر، وألغِ ما لا تستخدمه، لأن المبالغ الصغيرة المتكررة تستنزف الميزانية دون أن تشعر.",
+      "en": "Recurring expenses are paid every month or year, often automatically: subscriptions, bills and instalments. List them all, review the list every three months and cancel whatever you do not use, because small repeating charges quietly drain a budget."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كيف أستعد للمصاريف المفاجئة؟",
+        "en": "How do I prepare for unexpected expenses?"
+      },
+      {
+        "ar": "كيف أقلل المصاريف غير الضرورية؟",
+        "en": "How can I cut unnecessary expenses?"
+      }
+    ]
+  },
+  {
+    "id": "kb-26",
+    "keywordsAr": [
+      "مصاريف مفاجئة",
+      "مصروفات مفاجئة",
+      "مصاريف طارئة",
+      "مصاريف غير متوقعة",
+      "المصاريف المفاجئة",
+      "للمصاريف المفاجئة",
+      "ظرف طارئ",
+      "نفقات مفاجئة"
+    ],
+    "keywordsEn": [
+      "unexpected expenses",
+      "surprise expenses",
+      "unplanned expenses",
+      "unexpected costs",
+      "sudden expense",
+      "surprise costs",
+      "unplanned spending"
+    ],
+    "answer": {
+      "ar": "لا يمكن توقع كل شيء، لكن يمكن الاستعداد: خصّص بنداً صغيراً شهرياً في ميزانيتك للمفاجآت، وابنِ صندوق طوارئ تدريجياً. وعند وقوع مصروف مفاجئ، استخدم هذا البند أولاً ثم عدّل الرغبات لهذا الشهر بدل الاقتراض.",
+      "en": "You cannot predict everything, but you can prepare: include a small monthly line for surprises and build an emergency fund gradually. When a surprise hits, use that line first and adjust your wants for the month instead of borrowing."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "ما هو صندوق الطوارئ؟",
+        "en": "What is an emergency fund?"
+      },
+      {
+        "ar": "هل من الجيد أن أقترض لشراء شيء أريده؟",
+        "en": "Is it a good idea to borrow to buy something I want?"
+      }
+    ]
+  },
+  {
+    "id": "kb-27",
+    "keywordsAr": [
+      "شراء عشوائي",
+      "الشراء العشوائي",
+      "شراء اندفاعي",
+      "الشراء الاندفاعي",
+      "شراء بدون تخطيط",
+      "اشتري بدون تفكير",
+      "ادمان التسوق",
+      "اندفاع"
+    ],
+    "keywordsEn": [
+      "impulse buying",
+      "impulse purchase",
+      "impulse spending",
+      "impulse buy",
+      "random purchases",
+      "stop buying things",
+      "shopping addiction"
+    ],
+    "answer": {
+      "ar": "جرّب قاعدة الانتظار: أجّل أي شراء غير ضروري 24 ساعة (وللمبالغ الكبيرة أسبوعاً). اكتب الشيء في قائمة رغبات، وتسوّق بقائمة مكتوبة، وتجنب التسوق حين تكون متعباً أو حزيناً أو بلا هدف. كثير من الرغبات تختفي بعد الانتظار.",
+      "en": "Try the waiting rule: delay any non-essential purchase by 24 hours (a week for larger amounts). Put the item on a wish list, shop with a written list and avoid shopping when tired, sad or aimless. Many urges fade after waiting."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كيف أتخذ قرار شراء سليماً؟",
+        "en": "How do I make a sound purchase decision?"
+      },
+      {
+        "ar": "كيف أقارن الأسعار بذكاء؟",
+        "en": "How do I compare prices wisely?"
+      }
+    ]
+  },
+  {
+    "id": "kb-28",
+    "keywordsAr": [
+      "قرار شراء",
+      "قرار الشراء",
+      "قرارات الشراء",
+      "قبل ان اشتري",
+      "قبل الشراء",
+      "هل اشتري",
+      "هل اشتريه",
+      "اتخاذ قرار"
+    ],
+    "keywordsEn": [
+      "purchase decision",
+      "buying decision",
+      "should i buy",
+      "before buying",
+      "before i buy",
+      "before purchasing",
+      "decide whether to buy",
+      "big purchase"
+    ],
+    "answer": {
+      "ar": "اسأل قبل الدفع: هل هو ضمن ميزانيتي هذا الشهر؟ هل أحتاجه أم أريده فقط؟ كم مرة سأستخدمه؟ هل هناك خيار أرخص أو مستعمل بجودة جيدة؟ فإذا لم تجد إجابات مقنعة فأجّل القرار.",
+      "en": "Before paying, ask: Is it within my budget this month? Do I need it or just want it? How often will I use it? Is there a cheaper or good second-hand option? If you cannot answer convincingly, postpone the decision."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كيف أعرف هل الشيء الذي أريد شراءه حاجة أم رغبة؟",
+        "en": "How can I tell if something I want to buy is a need or a want?"
+      },
+      {
+        "ar": "كيف أقارن الأسعار بذكاء؟",
+        "en": "How do I compare prices wisely?"
+      }
+    ]
+  },
+  {
+    "id": "kb-29",
+    "keywordsAr": [
+      "قارن الاسعار",
+      "مقارنة الاسعار",
+      "اقارن الاسعار",
+      "عروض وخصومات",
+      "الخصومات",
+      "التخفيضات",
+      "تخفيضات",
+      "السعر الاقل",
+      "الاسعار"
+    ],
+    "keywordsEn": [
+      "compare prices",
+      "price comparison",
+      "comparing prices",
+      "best price",
+      "discounts",
+      "sales and offers",
+      "cheaper option",
+      "price check"
+    ],
+    "answer": {
+      "ar": "قارن بين مصدرين أو ثلاثة على الأقل، وقارن السعر بوحدة القياس (لكل كيلو أو لكل استخدام) لا بالسعر الإجمالي فقط. وتذكّر أن الخصم لا يوفّر مالاً إذا كنت لا تحتاج الشيء أصلاً.",
+      "en": "Compare at least two or three sources, and compare by unit (per kilo or per use) rather than by total price alone. Remember that a discount does not save money if you did not need the item in the first place."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كيف أتجنب الشراء العشوائي؟",
+        "en": "How do I avoid impulse buying?"
+      },
+      {
+        "ar": "كيف أقلل المصاريف غير الضرورية؟",
+        "en": "How can I cut unnecessary expenses?"
+      }
+    ]
+  },
+  {
+    "id": "kb-30",
+    "keywordsAr": [
+      "مراجعة الميزانية",
+      "راجع ميزانيتي",
+      "مراجعة ميزانيتي",
+      "نهاية الشهر",
+      "اخر الشهر",
+      "مراجعة شهرية",
+      "تقييم الميزانية",
+      "تقييم ميزانيتي"
+    ],
+    "keywordsEn": [
+      "review my budget",
+      "review budget",
+      "budget review",
+      "month-end",
+      "month end",
+      "end of the month",
+      "monthly review",
+      "evaluate my budget"
+    ],
+    "answer": {
+      "ar": "اجلس عشر دقائق في نهاية الشهر وقارن المخطط بالفعلي لكل فئة. اسأل: أين تجاوزت ولماذا؟ ما الذي سار جيداً؟ ما الذي سأغيّره الشهر القادم؟ ثم عدّل الأرقام بدل أن تتخلى عن الميزانية.",
+      "en": "Sit down for ten minutes at month-end and compare planned versus actual for each category. Ask: Where did I overspend and why? What went well? What will I change next month? Then adjust the numbers rather than abandoning the budget."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كيف أتابع تقدمي المالي؟",
+        "en": "How do I track my financial progress?"
+      },
+      {
+        "ar": "ماذا أفعل إذا تجاوزت ميزانيتي؟",
+        "en": "What should I do if I go over budget?"
+      }
+    ]
+  },
+  {
+    "id": "kb-31",
+    "keywordsAr": [
+      "تقدمي المالي",
+      "متابعة التقدم",
+      "تتبع التقدم",
+      "نسبة الانجاز",
+      "اتابع تقدمي",
+      "قياس التقدم",
+      "تقدم الادخار",
+      "تقدمي"
+    ],
+    "keywordsEn": [
+      "financial progress",
+      "track progress",
+      "track my progress",
+      "measure progress",
+      "progress tracking",
+      "am i improving",
+      "my progress"
+    ],
+    "answer": {
+      "ar": "اختر مؤشرين بسيطين: المبلغ المدّخر حتى الآن (ونسبة الوصول إلى هدفك)، وما أنفقته مقابل الميزانية. دوّنهما شهرياً في المكان نفسه؛ فرؤية الأرقام تتحسن مع الوقت تحفّزك وتكشف مبكراً إن ابتعدت عن الخطة.",
+      "en": "Pick two simple indicators: the amount saved so far (and how close you are to your goal), and how much you spent versus your budget. Record them monthly in the same place; seeing the numbers improve motivates you and shows early if you drift off plan."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كيف أضع هدف ادخار واضحاً؟",
+        "en": "How do I set a clear savings goal?"
+      },
+      {
+        "ar": "كيف أراجع ميزانيتي في نهاية الشهر؟",
+        "en": "How do I review my budget at month-end?"
+      }
+    ]
+  },
+  {
+    "id": "kb-32",
+    "keywordsAr": [
+      "ميزانية واقعية",
+      "ميزانيتي واقعية",
+      "غير واقعية",
+      "لا استطيع الالتزام",
+      "ارقام واقعية",
+      "ميزانية قابلة للتنفيذ",
+      "لا استطيع الالتزام بالميزانية",
+      "لا التزم بالميزانية",
+      "صعب الالتزام"
+    ],
+    "keywordsEn": [
+      "realistic budget",
+      "budget realistic",
+      "realistic numbers",
+      "stick to my budget",
+      "stick to a budget",
+      "hard to follow budget",
+      "budget too strict"
+    ],
+    "answer": {
+      "ar": "استند إلى ما أنفقته فعلاً في الأشهر الماضية لا إلى ما تتمنى إنفاقه. اترك هامشاً صغيراً للمفاجآت، وخصّص مبلغاً للترفيه حتى لا تشعر بالحرمان، وابدأ بتغييرات صغيرة. الميزانية الصارمة جداً غالباً تُهجَر بعد أسابيع.",
+      "en": "Base your numbers on what you actually spent in past months, not on what you wish you spent. Leave a small buffer for surprises, include some fun money so you do not feel deprived, and begin with small changes. Overly strict budgets are usually abandoned within weeks."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "ماذا أفعل إذا تجاوزت ميزانيتي؟",
+        "en": "What should I do if I go over budget?"
+      },
+      {
+        "ar": "ما أنواع المصاريف؟",
+        "en": "What types of expenses are there?"
+      }
+    ]
+  },
+  {
+    "id": "kb-33",
+    "keywordsAr": [
+      "تجاوزت الميزانية",
+      "تجاوزت ميزانيتي",
+      "صرفت اكثر",
+      "انفقت اكثر",
+      "نفدت ميزانيتي",
+      "تجاوز الميزانية",
+      "مصاريفي اكثر من دخلي",
+      "ينفد راتبي",
+      "ينتهي المال قبل نهاية الشهر",
+      "المال ينتهي"
+    ],
+    "keywordsEn": [
+      "over budget",
+      "overspent",
+      "overspending",
+      "spent too much",
+      "run out of money",
+      "money runs out",
+      "expenses exceed income",
+      "spending more than i earn",
+      "went over"
+    ],
+    "answer": {
+      "ar": "لا تعتبره فشلاً. حدّد سبب التجاوز، ثم عوّضه هذا الشهر بتقليل الرغبات أو بنقل مبلغ من فئة مرنة. وإذا تكرر التجاوز في فئة معينة فاجعل سقفها أكثر واقعية أو ابحث عن بديل أرخص.",
+      "en": "Do not treat it as failure. Identify why it happened, then make up for it this month by trimming wants or moving money from a flexible category. If one category keeps going over, set a more realistic limit or find a cheaper alternative."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كيف أقلل المصاريف غير الضرورية؟",
+        "en": "How can I cut unnecessary expenses?"
+      },
+      {
+        "ar": "كيف أجعل ميزانيتي واقعية؟",
+        "en": "How do I make my budget realistic?"
+      }
+    ]
+  },
+  {
+    "id": "kb-34",
+    "keywordsAr": [
+      "التخطيط المالي",
+      "تخطيط مالي",
+      "خطة مالية",
+      "الخطة المالية",
+      "اخطط ماليا",
+      "خطط مالية",
+      "ادارة المال",
+      "ادارة الاموال"
+    ],
+    "keywordsEn": [
+      "financial planning",
+      "financial plan",
+      "money management",
+      "manage my money",
+      "plan my finances",
+      "managing money",
+      "money planning"
+    ],
+    "answer": {
+      "ar": "التخطيط المالي هو تحديد أهدافك المالية ثم رسم الخطوات التي توصلك إليها: معرفة دخلك، وتنظيم إنفاقك، والادخار بانتظام، والاستعداد للطوارئ. وهو ليس للأغنياء فقط، بل يكون أهم ما يكون لمن دخله محدود.",
+      "en": "Financial planning means setting your money goals and mapping the steps to reach them: knowing your income, organizing spending, saving regularly and preparing for emergencies. It is not only for the wealthy; it matters most when income is limited."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "ما الفرق بين الأهداف المالية القصيرة والطويلة؟",
+        "en": "What is the difference between short-term and long-term goals?"
+      },
+      {
+        "ar": "ما العادات المالية الجيدة؟",
+        "en": "What are good money habits?"
+      }
+    ]
+  },
+  {
+    "id": "kb-35",
+    "keywordsAr": [
+      "اهداف قصيرة",
+      "اهداف طويلة",
+      "قصيرة المدى",
+      "طويلة المدى",
+      "هدف قصير",
+      "هدف طويل",
+      "الاهداف المالية القصيرة",
+      "القصيرة والطويلة"
+    ],
+    "keywordsEn": [
+      "short-term goals",
+      "long-term goals",
+      "short term",
+      "long term",
+      "short and long term",
+      "short-term and long-term"
+    ],
+    "answer": {
+      "ar": "الأهداف القصيرة تتحقق خلال أشهر قليلة، مثل شراء كتب أو هاتف، والطويلة تحتاج سنوات، مثل السفر للدراسة أو شراء سيارة. ابدأ بهدف قصير لتحصل على نجاح مبكر يحفّزك، وقسّم الهدف الطويل إلى مراحل صغيرة.",
+      "en": "Short-term goals are reached within a few months, like buying books or a phone; long-term goals take years, like studying abroad or buying a car. Start with a short-term goal for an early win, and split long-term goals into small stages."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كيف أضع هدف ادخار واضحاً؟",
+        "en": "How do I set a clear savings goal?"
+      },
+      {
+        "ar": "ما هو التخطيط المالي؟",
+        "en": "What is financial planning?"
+      }
+    ]
+  },
+  {
+    "id": "kb-36",
+    "keywordsAr": [
+      "عادات مالية",
+      "العادات المالية",
+      "عادة مالية",
+      "اكون عادة",
+      "بناء عادة",
+      "سلوك مالي"
+    ],
+    "keywordsEn": [
+      "money habits",
+      "financial habits",
+      "good habits",
+      "build a habit",
+      "financial behavior",
+      "healthy money habits",
+      "habit"
+    ],
+    "answer": {
+      "ar": "أهم العادات: تسجيل المصاريف يومياً، والادخار أولاً، والانتظار قبل الشراء غير الضروري، ومراجعة الميزانية أسبوعياً. اختر عادة واحدة وثبّتها أسابيع قبل إضافة غيرها، فالتغيير التدريجي يدوم أكثر.",
+      "en": "The key habits are logging expenses daily, saving first, waiting before non-essential purchases and reviewing your budget weekly. Pick one habit and stick to it for a few weeks before adding another; gradual change lasts longer."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "لماذا يجب أن أتتبع مصاريفي؟",
+        "en": "Why should I track my expenses?"
+      },
+      {
+        "ar": "ما معنى أن أدفع لنفسي أولاً؟",
+        "en": "What does paying yourself first mean?"
+      }
+    ]
+  },
+  {
+    "id": "kb-37",
+    "keywordsAr": [
+      "ميزانية طالب",
+      "ميزانية الطالب",
+      "كطالب",
+      "مصروف الطالب",
+      "طالب جامعي",
+      "المصروف الجامعي",
+      "مصروف جامعي",
+      "ميزانية للطلاب"
+    ],
+    "keywordsEn": [
+      "student budget",
+      "budget as a student",
+      "as a student",
+      "college budget",
+      "university budget",
+      "student allowance",
+      "student money",
+      "student"
+    ],
+    "answer": {
+      "ar": "اعتبر مصروفك أو منحتك دخلك الشهري، وقسّمه إلى احتياجات (مواصلات، طعام، مستلزمات دراسة) ورغبات وادخار. وفّر بالاستفادة من خصومات الطلاب والكتب المستعملة والطبخ في البيت، وسجّل مصاريفك أسبوعياً.",
+      "en": "Treat your allowance or scholarship as your monthly income and split it into needs (transport, food, study supplies), wants and savings. Save by using student discounts, second-hand books and cooking at home, and record your spending weekly."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "ما هي قاعدة 50/30/20؟",
+        "en": "What is the 50/30/20 rule?"
+      },
+      {
+        "ar": "لماذا يجب أن أتتبع مصاريفي؟",
+        "en": "Why should I track my expenses?"
+      }
+    ]
+  },
+  {
+    "id": "kb-38",
+    "keywordsAr": [
+      "الدفع بالبطاقة",
+      "الدفع الالكتروني",
+      "الدفع بالتطبيق",
+      "بالبطاقة",
+      "نقدا او بطاقة",
+      "الدفع النقدي",
+      "بطاقة الائتمان",
+      "مدفوعات الكترونية",
+      "محفظة الكترونية"
+    ],
+    "keywordsEn": [
+      "pay by card",
+      "paying by card",
+      "card payments",
+      "digital payments",
+      "cash vs card",
+      "cash or card",
+      "contactless",
+      "mobile payment",
+      "credit card",
+      "e-wallet"
+    ],
+    "answer": {
+      "ar": "نعم، فالدفع الإلكتروني لا يُشعرك بخروج المال كما يفعل النقد، لذلك يميل الإنفاق إلى الزيادة. سجّل المدفوعات الرقمية بنفس جدية النقد، وراجع كشف حسابك أسبوعياً، وإذا وجدت صعوبة في التحكم فجرّب النقد لفئات مثل الترفيه.",
+      "en": "Yes. Digital payments do not feel like money leaving the way cash does, so spending tends to rise. Record digital payments as seriously as cash, check your statement weekly and, if control is hard, try cash for categories like entertainment."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "لماذا يجب أن أتتبع مصاريفي؟",
+        "en": "Why should I track my expenses?"
+      },
+      {
+        "ar": "كيف أحدد حداً أقصى للإنفاق؟",
+        "en": "How do I set a spending limit?"
+      }
+    ]
+  },
+  {
+    "id": "kb-39",
+    "keywordsAr": [
+      "اقترض",
+      "اقتراض",
+      "الاقتراض",
+      "قرض",
+      "الاستدانة",
+      "استدين",
+      "ديون",
+      "الديون",
+      "تقسيط",
+      "اقساط",
+      "الشراء بالتقسيط"
+    ],
+    "keywordsEn": [
+      "borrow",
+      "borrowing",
+      "loan",
+      "debt",
+      "instalment",
+      "installment",
+      "buy now pay later",
+      "credit"
+    ],
+    "answer": {
+      "ar": "الأفضل ألا تقترض لشراء الرغبات. وإذا كانت هناك حاجة حقيقية فاحسب إجمالي ما ستدفعه مع الفوائد أو الأقساط، وتأكد أن القسط الشهري لن يعطّل ادخارك ولا احتياجاتك الأساسية. وسداد الالتزامات القائمة يأتي قبل أي التزام جديد.",
+      "en": "It is best not to borrow for wants. If there is a real need, calculate the total you will pay including interest or instalments and make sure the monthly payment will not disrupt your savings or essentials. Repay existing obligations before taking on new ones."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "ما هو صندوق الطوارئ؟",
+        "en": "What is an emergency fund?"
+      },
+      {
+        "ar": "ما أشهر الأخطاء في إدارة الميزانية؟",
+        "en": "What are the most common budgeting mistakes?"
+      }
+    ]
+  },
+  {
+    "id": "kb-40",
+    "keywordsAr": [
+      "اخطاء الميزانية",
+      "اخطاء مالية",
+      "اخطاء في ادارة",
+      "اخطاء شائعة",
+      "اشهر الاخطاء",
+      "اسباب فشل الميزانية",
+      "لماذا تفشل الميزانية",
+      "اخطائي المالية"
+    ],
+    "keywordsEn": [
+      "budgeting mistakes",
+      "money mistakes",
+      "common mistakes",
+      "financial mistakes",
+      "why budgets fail",
+      "budget errors",
+      "mistakes to avoid",
+      "budget fails"
+    ],
+    "answer": {
+      "ar": "أشهرها: عدم تسجيل المصاريف الصغيرة، وميزانية غير واقعية، ونسيان المصاريف المفاجئة والمتكررة، والادخار بما يتبقى فقط، وترك الميزانية بعد أول تجاوز. تجد أمثلة وحلولاً في صفحة «أخطاء مالية» في التطبيق.",
+      "en": "The most common are not recording small expenses, an unrealistic budget, forgetting recurring and surprise costs, saving only what is left over and abandoning the budget after the first slip. You will find examples and fixes on the Money Mistakes page of the app."
+    },
+    "relatedQuestions": [
+      {
+        "ar": "كيف أجعل ميزانيتي واقعية؟",
+        "en": "How do I make my budget realistic?"
+      },
+      {
+        "ar": "ما العادات المالية الجيدة؟",
+        "en": "What are good money habits?"
+      }
+    ]
+  }
+]
